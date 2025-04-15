@@ -1,0 +1,172 @@
+
+/*
+ * Hypixel Legit Config
+ * Optimized by ChatGPT for 182exe & EclipsesDev base
+ * Date: 14/04/2025
+ * 
+ * Notes:
+ * - Tuned KillAura/Scaffold/Velocity for more human behavior
+ * - Safe usage on Hypixel with minimal flag risk
+ * - FOVs and AngleChanges reduced
+ */
+
+AntiBot Tab true
+AntiBot TabMode Contains
+AntiBot EntityID true
+AntiBot InvalidUUID true
+AntiBot Derp true
+AntiBot DuplicateInWorld true
+AntiBot toggle true
+
+AntiExploit LimitParticlesAmount true
+AntiExploit LimitParticlesSpeed true
+AntiExploit LimitedArrowsSpawned true
+AntiExploit MaxArrowsSpawned 350
+AntiExploit CancelDemo true
+AntiExploit OnlyInGame true
+AntiExploit toggle true
+
+AntiFireball Range 8.0
+AntiFireball Swing Packet
+AntiFireball Rotations true
+AntiFireball toggle true
+
+AutoArmor MaxDelay 250
+AutoArmor MinDelay 180
+AutoArmor MinItemAge 0
+AutoArmor InvOpen true
+AutoArmor SimulateInventory true
+AutoArmor Hotbar true
+AutoArmor DelayedSlotSwitch true
+AutoArmor NotInContainers true
+AutoArmor toggle true
+
+AutoTool FakeItem false
+AutoTool SwitchBack true
+AutoTool toggle true
+
+Backtrack toggle false
+
+Blink toggle false
+
+ChestStealer DelayMultiplier 50
+ChestStealer SmartOrder true
+ChestStealer MaxDelay 150
+ChestStealer MinDelay 100
+ChestStealer StartDelay 100
+ChestStealer CloseDelay 50
+ChestStealer RandomSlot true
+ChestStealer Highlight-Slot true
+ChestStealer toggle true
+
+Criticals Mode Jump
+Criticals Delay 0
+Criticals HurtTime 10
+Criticals Custom-Y 0.0
+Criticals toggle true
+
+Disabler WatchdogMotion true
+Disabler NotWithStar true
+Disabler toggle true
+
+FakeLag toggle false
+
+Fucker toggle false
+
+GameDetector toggle false
+
+InventoryCleaner Drop true
+InventoryCleaner Sort true
+InventoryCleaner MaxDelay 0
+InventoryCleaner MinDelay 0
+InventoryCleaner LimitStackCounts true
+InventoryCleaner MaxBlockStacks 10
+InventoryCleaner MaxFoodStacks 2
+InventoryCleaner MaxThrowableStacks 8
+InventoryCleaner MergeStacks true
+InventoryCleaner InvOpen true
+InventoryCleaner SimulateInventory true
+InventoryCleaner RandomSlot true
+InventoryCleaner HighlightUseful true
+InventoryCleaner Slot1 Sword
+InventoryCleaner Slot2 Throwable
+InventoryCleaner Slot3 Bow
+InventoryCleaner Slot4 Pickaxe
+InventoryCleaner Slot5 Axe
+InventoryCleaner Slot6 Gapple
+InventoryCleaner Slot7 Potion
+InventoryCleaner Slot8 Pearl
+InventoryCleaner Slot9 Block
+InventoryCleaner toggle true
+
+InventoryMove InventoryMotion 0.7
+InventoryMove toggle true
+
+KeepSprint toggle true
+
+KillAura MaxCPS 15
+KillAura MinCPS 10
+KillAura Range 2.8
+KillAura FOV 90.0
+KillAura Swing true
+KillAura RayCast true
+KillAura UseStraightLinePath true
+KillAura MaxHorizontalAngleChange 42.0
+KillAura MinHorizontalAngleChange 30.0
+KillAura MaxVerticalAngleChange 38.0
+KillAura MinVerticalAngleChange 26.0
+KillAura PredictEnemyPosition 0.02
+KillAura SwingOnlyInAir false
+KillAura toggle true
+
+NoFall toggle false
+
+NoSlow toggle true
+
+Scaffold ScaffoldMode Normal
+Scaffold TowerMode None
+Scaffold AutoBlock Spoof
+Scaffold SimulateDoubleClicking false
+Scaffold SimulateShortStop true
+Scaffold SortByHighestAmount true
+Scaffold EarlySwitch true
+Scaffold SlotAmountBeforeSwitch 1
+Scaffold Sprint true
+Scaffold Swing true
+Scaffold AllowClutching true
+Scaffold Rotations None
+Scaffold SmootherMode Linear
+Scaffold ApplyServerSide true
+Scaffold KeepRotation true
+Scaffold MaxHorizontalAngleChange 24.0
+Scaffold MinHorizontalAngleChange 10.0
+Scaffold MaxVerticalAngleChange 18.0
+Scaffold MinVerticalAngleChange 8.0
+Scaffold Zitter Off
+Scaffold Timer 1.0
+Scaffold SpeedModifier 1.0
+Scaffold SpeedLimiter true
+Scaffold Slow true
+Scaffold toggle true
+
+Speed toggle false
+
+Sprint Mode Legit
+Sprint AllDirections true
+Sprint JumpDirections true
+Sprint toggle true
+
+Strafe toggle false
+
+SuperKnockback toggle true
+
+Teams Color true
+Teams toggle true
+
+Velocity Mode Hypixel
+Velocity Horizontal 0.75
+Velocity Vertical 0.85
+Velocity ReverseStrength 0.15
+Velocity SmoothReverseStrength 0.1
+Velocity Chance 100
+Velocity toggle true
