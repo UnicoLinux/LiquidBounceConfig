@@ -1,0 +1,52 @@
+AutoClicker toggle true
+AutoClicker MinCPS 10
+AutoClicker MaxCPS 14
+AutoClicker Left true
+AutoClicker Right false
+AutoClicker SimulateDoubleClicking false
+AutoClicker Jitter false
+
+Backtrack toggle true
+Backtrack Delay 85
+Backtrack MaxDistance 2.5
+Backtrack MinDistance 1.6
+Backtrack Smart true
+Backtrack Style Smooth
+
+Velocity toggle true
+Velocity Mode Jump
+Velocity Chance 100
+Velocity TicksUntilJump 3
+Velocity PauseOnExplosion true
+Velocity TicksToPause 10
+
+Strafe toggle true
+Strafe Strength 0.22
+Strafe OnGroundStrafe true
+Strafe AllDirectionsJump false
+
+InventoryMove toggle true
+InventoryMove Undetectable true
+InventoryMove NoMoveClicks true
+InventoryMove NoClicksInAir true
+InventoryMove NoClicksOnGround true
+
+AutoArmor toggle true
+AutoArmor MinDelay 150
+AutoArmor MaxDelay 200
+AutoArmor Hotbar true
+AutoArmor NoMoveClicks true
+AutoArmor NoClicksOnGround true
+AutoArmor NoClicksInAir true
+AutoArmor InvOpen true
+
+Zoot toggle true
+Zoot Fire true
+Zoot BadEffects true
+Zoot NoAir false
+
+Sprint toggle true
+Sprint Mode Legit
+
+KillAura toggle false
+Aimbot toggle false

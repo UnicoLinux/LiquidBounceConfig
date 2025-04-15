@@ -1,0 +1,70 @@
+AutoClicker toggle true
+AutoClicker MinCPS 9
+AutoClicker MaxCPS 13
+AutoClicker Left true
+AutoClicker Right false
+AutoClicker SimulateDoubleClicking false
+AutoClicker Jitter false
+
+Scaffold toggle true
+Scaffold ScaffoldMode Normal
+Scaffold TowerMode None
+Scaffold Rotations None
+Scaffold AutoBlock Spoof
+Scaffold SimulateDoubleClicking false
+Scaffold ExtraClickMaxCPS 14
+Scaffold ExtraClickMinCPS 10
+Scaffold PlacementAttempt Normal
+Scaffold Sprint true
+Scaffold WaitForRotations false
+Scaffold UseOptimizedPitch false
+Scaffold AllowClutching true
+Scaffold Legitimize true
+Scaffold SimulateShortStop true
+Scaffold Strafe false
+Scaffold EarlySwitch true
+Scaffold SlotAmountBeforeSwitch 2
+Scaffold KeepRotation true
+Scaffold JumpAutomatically false
+Scaffold MaxHorizontalAngleChange 14.0
+Scaffold MinHorizontalAngleChange 6.0
+Scaffold MaxVerticalAngleChange 9.0
+Scaffold MinVerticalAngleChange 5.0
+Scaffold AngleResetDifference 80.0
+Scaffold MinRotationDifference 1.2
+Scaffold GodBridgePitch 76.0
+Scaffold SmootherMode Relative
+Scaffold ApplyServerSide true
+Scaffold ResetTicks 2
+Scaffold SpeedModifier 1.0
+Scaffold Timer 1.0
+Scaffold SpeedLimiter true
+Scaffold Slow true
+Scaffold JumpStrafe false
+Scaffold Zitter Off
+
+AutoArmor toggle true
+AutoArmor MinDelay 180
+AutoArmor MaxDelay 250
+AutoArmor Hotbar true
+AutoArmor NoMoveClicks true
+AutoArmor NoClicksOnGround true
+AutoArmor NoClicksInAir true
+AutoArmor InvOpen true
+
+InventoryMove toggle true
+InventoryMove Undetectable true
+InventoryMove NoMoveClicks true
+InventoryMove NoClicksInAir true
+InventoryMove NoClicksOnGround true
+
+Zoot toggle true
+Zoot Fire true
+Zoot BadEffects true
+Zoot NoAir false
+
+Sprint toggle true
+Sprint Mode Legit
+
+KillAura toggle false
+Aimbot toggle false
